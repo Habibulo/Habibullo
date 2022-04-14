@@ -1,0 +1,9 @@
+a = input("a: ")
+b = input("b: ")
+##################################
+#Write code 👇
+h=a
+a=b
+b=h
+print("a =" + a)
+print("b =" + b)
